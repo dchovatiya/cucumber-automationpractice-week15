@@ -10,14 +10,12 @@ import cucumber.api.java.Before;
 import java.io.IOException;
 
 
-/**
- * By Bhoomi
- */
+
 public class Hooks extends Utility {
     @Before
     public void setUp(){
        selectBrowser(PropertyReader.getInstance().getProperty("browser"));
-    //   Reporter.assignAuthor("Bhoomi");
+       //Reporter.assignAuthor("Dimple");
     }
     @After
     public void tearDown(Scenario scenario){

@@ -6,9 +6,8 @@ import cucumber.api.junit.Cucumber;
 import org.junit.AfterClass;
 import org.junit.runner.RunWith;
 
-/**
- * Created by Bhoomi
- */
+
+
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test/java/resources/featurefile",   //Path from  Content Root

@@ -14,9 +14,7 @@ import java.time.Duration;
 import java.util.Date;
 import java.util.List;
 
-/**
- * Created Bhoomi
- */
+
 public class Utility extends ManageDriver {
     /*Utility Class extends to ManageDriver for the driver to finding locators
      *All common methods are fixed in the utility Class.

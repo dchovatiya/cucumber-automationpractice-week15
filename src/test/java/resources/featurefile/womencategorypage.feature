@@ -1,11 +1,12 @@
 Feature: Women Category
   As a user I want see products and its categories and should add items to cart
+
   Background:
   Given I am at homepage
   When I click on Women link
   Scenario: User should navigate and access Women category successfully
 
-    Then I should see text "WOMEN"
+  Then I should see text "WOMEN"
 @sanity
   Scenario Outline: Verify user should add product to the cart successfully
 

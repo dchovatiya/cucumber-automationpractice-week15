@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95a7b264-e7e4-4247-a277-299a02c64918" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/logs/log.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/logs/log.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/pages/CreateAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/pages/CreateAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/pages/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/pages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/pages/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/pages/WomenCategoryPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/pages/WomenCategoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/automation/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/automation/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/SanityTestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/SanityTestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/CreateAccountSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/CreateAccountSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/SignInSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/SignInSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/WomenCategorySteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/automation/cucumber/steps/WomenCategorySteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/signpage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/signpage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/featurefile/womencategorypage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/resources/featurefile/womencategorypage.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22KIy0TcoYiTASsjc7TW8K5S7w4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Cucumber-home-work-week-15-NopCommerce" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="automation-practice-cucmberWeek15" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.automation.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.automation.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="com.automation.cucumber.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a7b264-e7e4-4247-a277-299a02c64918" name="Changes" comment="" />
+      <created>1639580104095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639580104095</updated>
+    </task>
+    <servers />
+  </component>
+</project>

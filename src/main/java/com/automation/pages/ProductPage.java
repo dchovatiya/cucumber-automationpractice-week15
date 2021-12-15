@@ -9,9 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-/**
- * By Bhoomi
- */
+
 
 public class ProductPage extends Utility {
 

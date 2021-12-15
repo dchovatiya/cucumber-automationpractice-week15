@@ -9,9 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Reporter;
 
-/**
- * By Bhoomi
- */
+
 
 public class CreateAccountPage extends Utility {
  // Need to be on class for Log4J use

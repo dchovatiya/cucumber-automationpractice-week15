@@ -8,9 +8,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-/**
- * By Naresh Savalia
- */
+
 public class WomenCategorySteps {
     @When("^I click on Women link$")
     public void iClickOnWomenLink() {

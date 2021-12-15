@@ -10,9 +10,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.junit.Assert;
 
-/**
- * By Bhoomi
- **/
+
 public class SignInSteps {
     public static String email = Utility.getRandomString(5)+"@gmail.com";
     @Given("^I am at homepage$")
@@ -50,16 +48,16 @@ public class SignInSteps {
     }
 
     @Then("^I should see the error message \"([^\"]*)\"$")
-    public void iShouldSeeTheErrorMessage(String message)  {
+    public void iShouldSeeTheErrorMessage(String message)
+    {
         String expectedMessage = message;
         String actualMessage = new SignInPage().getAuthFailed();
         Assert.assertEquals("Invalid Credentials ", expectedMessage, actualMessage);
-
     }
 
     @When("^I enter valid email$")
     public void iEnterValidEmail() {
-        new SignInPage().enterEmailField("roma.patel2@gmail.com");
+        new SignInPage().enterEmailField("nisha.patel2@gmail.com");
     }
 
     @And("^I enter valid password$")
@@ -68,7 +66,8 @@ public class SignInSteps {
     }
 
     @Then("^I should see Sign out link$")
-    public void iShouldSeeSignOutLink() {
+    public void iShouldSeeSignOutLink()
+    {
         String signOut = new SignInPage().getSignOut();
         String expectedMessage ="Sign out";
         Assert.assertEquals("No Sign Out link shown ",expectedMessage,signOut);

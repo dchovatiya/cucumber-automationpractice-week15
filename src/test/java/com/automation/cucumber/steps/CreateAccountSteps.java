@@ -6,9 +6,7 @@ import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 import org.junit.Assert;
 
-/**
- * By Bhoomi
- */
+
 public class CreateAccountSteps {
 
     @And("^I enter a new email$")
@@ -28,7 +26,7 @@ public class CreateAccountSteps {
 
     @And("^I enter customer first name$")
     public void iEnterCustomerFirstName() {
-        new CreateAccountPage().getCustomerFNM("roma");
+        new CreateAccountPage().getCustomerFNM("Nisha");
     }
 
     @And("^I enter customer last name$")
@@ -58,7 +56,7 @@ public class CreateAccountSteps {
 
     @And("^I enter first name$")
     public void iEnterFirstName() {
-        new CreateAccountPage().getFName("roma");
+        new CreateAccountPage().getFName("Nisha");
     }
 
     @And("^I enter last name$")

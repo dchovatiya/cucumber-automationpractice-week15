@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 9238421300,
+  "duration": 15545863099,
   "status": "passed"
 });
 formatter.scenario({
@@ -158,186 +158,186 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 183264200,
+  "duration": 219566600,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2068598600,
+  "duration": 11236518300,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterANewEmail()"
 });
 formatter.result({
-  "duration": 166642900,
+  "duration": 162875901,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iClickCreateAnAccount()"
 });
 formatter.result({
-  "duration": 91723000,
+  "duration": 137291600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iSelectGender()"
 });
 formatter.result({
-  "duration": 5745167900,
+  "duration": 4353809400,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterCustomerFirstName()"
 });
 formatter.result({
-  "duration": 131757800,
+  "duration": 134769700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterCustomerLastName()"
 });
 formatter.result({
-  "duration": 128749100,
+  "duration": 137870800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterPassword()"
 });
 formatter.result({
-  "duration": 132471600,
+  "duration": 161877201,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iSelectDayOfBirth()"
 });
 formatter.result({
-  "duration": 310182199,
+  "duration": 358866900,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iSelectMonthOfBirth()"
 });
 formatter.result({
-  "duration": 233594500,
+  "duration": 224747299,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iSelectYearOfBirth()"
 });
 formatter.result({
-  "duration": 260315801,
+  "duration": 277239100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterFirstName()"
 });
 formatter.result({
-  "duration": 143270000,
+  "duration": 103438999,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterLastName()"
 });
 formatter.result({
-  "duration": 113632801,
+  "duration": 112546001,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterCompany()"
 });
 formatter.result({
-  "duration": 109592899,
+  "duration": 118505600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterAddressOne()"
 });
 formatter.result({
-  "duration": 131918299,
+  "duration": 124480500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterAddressTwo()"
 });
 formatter.result({
-  "duration": 79767101,
+  "duration": 69151600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterCity()"
 });
 formatter.result({
-  "duration": 121461301,
+  "duration": 110403600,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterState()"
 });
 formatter.result({
-  "duration": 243509901,
+  "duration": 188558800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterPostCode()"
 });
 formatter.result({
-  "duration": 149792699,
+  "duration": 129282100,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterCountry()"
 });
 formatter.result({
-  "duration": 217562600,
+  "duration": 194545500,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterOtherDetails()"
 });
 formatter.result({
-  "duration": 177552200,
+  "duration": 140228800,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterPhoneNo()"
 });
 formatter.result({
-  "duration": 153414999,
+  "duration": 128243700,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterMobileNo()"
 });
 formatter.result({
-  "duration": 138442500,
+  "duration": 122492200,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iEnterAlia()"
 });
 formatter.result({
-  "duration": 129952001,
+  "duration": 116000499,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iClickOnRegisterButton()"
 });
 formatter.result({
-  "duration": 29904325200,
+  "duration": 28439045301,
   "status": "passed"
 });
 formatter.match({
   "location": "CreateAccountSteps.iShouldSeeMyAccount()"
 });
 formatter.result({
-  "duration": 71474700,
+  "duration": 48215199,
   "status": "passed"
 });
 formatter.after({
-  "duration": 782191899,
+  "duration": 941455399,
   "status": "passed"
 });
 formatter.uri("signpage.feature");
@@ -349,23 +349,23 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 8212117500,
+  "duration": 8824255900,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -373,18 +373,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 62400,
+  "duration": 102901,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2464075300,
+  "duration": 11260539201,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 7,
+  "line": 8,
   "name": "User should navigate to sign in page successfully",
   "description": "",
   "id": "sign-in-test;user-should-navigate-to-sign-in-page-successfully",
@@ -392,7 +392,7 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 9,
+  "line": 10,
   "name": "I should see the message AUTHENTICATION",
   "keyword": "Then "
 });
@@ -400,15 +400,15 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeTheMessageAUTHENTICATION()"
 });
 formatter.result({
-  "duration": 85719201,
+  "duration": 55195200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 753818199,
+  "duration": 908393200,
   "status": "passed"
 });
 formatter.scenarioOutline({
-  "line": 11,
+  "line": 12,
   "name": "user should  verify the error message with invalid credentials",
   "description": "",
   "id": "sign-in-test;user-should--verify-the-error-message-with-invalid-credentials",
@@ -495,23 +495,23 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4659281501,
+  "duration": 7870652900,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -519,14 +519,14 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 92000,
+  "duration": 71101,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 4181711701,
+  "duration": 8082788800,
   "status": "passed"
 });
 formatter.scenario({
@@ -575,7 +575,7 @@ formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1411220200,
+  "duration": 12359617299,
   "status": "passed"
 });
 formatter.match({
@@ -588,7 +588,7 @@ formatter.match({
   "location": "SignInSteps.iEnterEmail(String)"
 });
 formatter.result({
-  "duration": 101585100,
+  "duration": 95904100,
   "status": "passed"
 });
 formatter.match({
@@ -601,14 +601,14 @@ formatter.match({
   "location": "SignInSteps.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 121183500,
+  "duration": 129138501,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1120895800,
+  "duration": 1848629300,
   "status": "passed"
 });
 formatter.match({
@@ -621,31 +621,31 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 67484300,
+  "duration": 45366400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 876883100,
+  "duration": 871887000,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4592468701,
+  "duration": 8768879400,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -653,14 +653,14 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 80901,
+  "duration": 74100,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 2825893900,
+  "duration": 2721705901,
   "status": "passed"
 });
 formatter.scenario({
@@ -709,7 +709,7 @@ formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 3487111000,
+  "duration": 7156803500,
   "status": "passed"
 });
 formatter.match({
@@ -722,7 +722,7 @@ formatter.match({
   "location": "SignInSteps.iEnterEmail(String)"
 });
 formatter.result({
-  "duration": 153946600,
+  "duration": 143567300,
   "status": "passed"
 });
 formatter.match({
@@ -735,14 +735,14 @@ formatter.match({
   "location": "SignInSteps.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 122933199,
+  "duration": 121159699,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 1295189699,
+  "duration": 9213643900,
   "status": "passed"
 });
 formatter.match({
@@ -755,31 +755,31 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 57852400,
+  "duration": 45947700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1008260000,
+  "duration": 857587900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5955359900,
+  "duration": 12135756200,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -787,14 +787,14 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 78600,
+  "duration": 49500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1845675100,
+  "duration": 7430881500,
   "status": "passed"
 });
 formatter.scenario({
@@ -843,7 +843,7 @@ formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1489231601,
+  "duration": 11960850401,
   "status": "passed"
 });
 formatter.match({
@@ -856,7 +856,7 @@ formatter.match({
   "location": "SignInSteps.iEnterEmail(String)"
 });
 formatter.result({
-  "duration": 148504800,
+  "duration": 121037799,
   "status": "passed"
 });
 formatter.match({
@@ -869,14 +869,14 @@ formatter.match({
   "location": "SignInSteps.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 143780500,
+  "duration": 127762200,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 869682100,
+  "duration": 10008006000,
   "status": "passed"
 });
 formatter.match({
@@ -889,31 +889,31 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 56304699,
+  "duration": 45836500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 938370400,
+  "duration": 873237400,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4921765801,
+  "duration": 10662588900,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -921,14 +921,14 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 73500,
+  "duration": 66500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1543363100,
+  "duration": 9613154999,
   "status": "passed"
 });
 formatter.scenario({
@@ -977,7 +977,7 @@ formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1334775101,
+  "duration": 4179421301,
   "status": "passed"
 });
 formatter.match({
@@ -990,7 +990,7 @@ formatter.match({
   "location": "SignInSteps.iEnterEmail(String)"
 });
 formatter.result({
-  "duration": 150577000,
+  "duration": 143705499,
   "status": "passed"
 });
 formatter.match({
@@ -1003,14 +1003,14 @@ formatter.match({
   "location": "SignInSteps.iEnterPassword(String)"
 });
 formatter.result({
-  "duration": 148741799,
+  "duration": 121365101,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 730603400,
+  "duration": 952525000,
   "status": "passed"
 });
 formatter.match({
@@ -1023,31 +1023,31 @@ formatter.match({
   "location": "SignInSteps.iShouldSeeTheErrorMessage(String)"
 });
 formatter.result({
-  "duration": 61257500,
+  "duration": 40620100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 892950300,
+  "duration": 857481900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4635731200,
+  "duration": 5052184301,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -1055,18 +1055,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 102299,
+  "duration": 56500,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1601748100,
+  "duration": 2719350100,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 26,
+  "line": 27,
   "name": "User should login successfully with valid credentials",
   "description": "",
   "id": "sign-in-test;user-should-login-successfully-with-valid-credentials",
@@ -1074,7 +1074,7 @@ formatter.scenario({
   "keyword": "Scenario",
   "tags": [
     {
-      "line": 25,
+      "line": 26,
       "name": "@sanity"
     }
   ]
@@ -1098,45 +1098,45 @@ formatter.match({
   "location": "SignInSteps.iEnterValidEmail()"
 });
 formatter.result({
-  "duration": 147414900,
+  "duration": 135505899,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iEnterValidPassword()"
 });
 formatter.result({
-  "duration": 113317800,
+  "duration": 104842801,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 915087201,
+  "duration": 2077057900,
   "status": "passed"
 });
 formatter.after({
-  "duration": 898452900,
+  "duration": 845010800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4458815600,
+  "duration": 9774669600,
   "status": "passed"
 });
 formatter.background({
-  "line": 4,
+  "line": 5,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 6,
+  "line": 7,
   "name": "I click on sign in link",
   "keyword": "When "
 });
@@ -1144,24 +1144,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 106300,
+  "duration": 358900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInLink()"
 });
 formatter.result({
-  "duration": 1844221199,
+  "duration": 8293169299,
   "status": "passed"
 });
 formatter.scenario({
-  "comments": [
-    {
-      "line": 31,
-      "value": "#    Then I should see Sign out link"
-    }
-  ],
-  "line": 33,
+  "line": 32,
   "name": "User should logout successfully",
   "description": "",
   "id": "sign-in-test;user-should-logout-successfully",
@@ -1169,27 +1163,27 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 35,
+  "line": 33,
   "name": "I enter valid email",
   "keyword": "When "
 });
 formatter.step({
-  "line": 36,
+  "line": 34,
   "name": "I enter valid password",
   "keyword": "And "
 });
 formatter.step({
-  "line": 37,
+  "line": 35,
   "name": "I click on Sign In button",
   "keyword": "And "
 });
 formatter.step({
-  "line": 38,
+  "line": 36,
   "name": "I click on Sign out link",
   "keyword": "And "
 });
 formatter.step({
-  "line": 39,
+  "line": 37,
   "name": "I should see Sign In link",
   "keyword": "Then "
 });
@@ -1197,29 +1191,29 @@ formatter.match({
   "location": "SignInSteps.iEnterValidEmail()"
 });
 formatter.result({
-  "duration": 144613800,
+  "duration": 158475800,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iEnterValidPassword()"
 });
 formatter.result({
-  "duration": 107574400,
+  "duration": 138353900,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignInButton()"
 });
 formatter.result({
-  "duration": 804457000,
+  "duration": 8048807300,
   "status": "passed"
 });
 formatter.match({
   "location": "SignInSteps.iClickOnSignOutLink()"
 });
 formatter.result({
-  "duration": 20056580400,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@title\u003d\u0027Log me out\u0027]\"}\n  (Session info: chrome\u003d96.0.4664.110)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027LAPTOP-V33PDEJ2\u0027, ip: \u0027172.28.160.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [fb674aad9ca03d93f0c7c1ca55eefb6f, findElement {using\u003dxpath, value\u003d//a[@title\u003d\u0027Log me out\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.110, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\\Users\\BHOOMI~1\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:63547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63547/devtoo..., se:cdpVersion: 96.0.4664.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fb674aad9ca03d93f0c7c1ca55eefb6f\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy22.click(Unknown Source)\r\n\tat com.automation.utility.Utility.clickOnElement(Utility.java:53)\r\n\tat com.automation.pages.SignInPage.setSignOut(SignInPage.java:113)\r\n\tat com.automation.cucumber.steps.SignInSteps.iClickOnSignOutLink(SignInSteps.java:80)\r\n\tat ✽.And I click on Sign out link(signpage.feature:38)\r\n",
+  "duration": 20016105000,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@title\u003d\u0027Log me out\u0027]\"}\n  (Session info: chrome\u003d96.0.4664.93)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: \u00274.0.0\u0027, revision: \u00273a21814679\u0027\nSystem info: host: \u0027PARAM397HP\u0027, ip: \u0027192.168.0.8\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_121\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [e1c67d2f86402da8591898c156e5541f, findElement {using\u003dxpath, value\u003d//a[@title\u003d\u0027Log me out\u0027]}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.93, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\\Users\\jpate\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60764}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60764/devtoo..., se:cdpVersion: 96.0.4664.93, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e1c67d2f86402da8591898c156e5541f\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)\r\n\tat org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)\r\n\tat org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)\r\n\tat org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)\r\n\tat com.sun.proxy.$Proxy22.click(Unknown Source)\r\n\tat com.automation.utility.Utility.clickOnElement(Utility.java:51)\r\n\tat com.automation.pages.SignInPage.setSignOut(SignInPage.java:111)\r\n\tat com.automation.cucumber.steps.SignInSteps.iClickOnSignOutLink(SignInSteps.java:79)\r\n\tat ✽.And I click on Sign out link(signpage.feature:36)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -1229,7 +1223,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 1228480300,
+  "duration": 1187251300,
   "status": "passed"
 });
 formatter.uri("womencategorypage.feature");
@@ -1241,23 +1235,23 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 4909713901,
+  "duration": 10583830000,
   "status": "passed"
 });
 formatter.background({
-  "line": 3,
+  "line": 4,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 4,
+  "line": 5,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I click on Women link",
   "keyword": "When "
 });
@@ -1265,18 +1259,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 77000,
+  "duration": 59600,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenLink()"
 });
 formatter.result({
-  "duration": 1583381600,
+  "duration": 8893557099,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 6,
+  "line": 7,
   "name": "User should navigate and access Women category successfully",
   "description": "",
   "id": "women-category;user-should-navigate-and-access-women-category-successfully",
@@ -1284,7 +1278,7 @@ formatter.scenario({
   "keyword": "Scenario"
 });
 formatter.step({
-  "line": 8,
+  "line": 9,
   "name": "I should see text \"WOMEN\"",
   "keyword": "Then "
 });
@@ -1298,15 +1292,15 @@ formatter.match({
   "location": "WomenCategorySteps.iShouldSeeText(String)"
 });
 formatter.result({
-  "duration": 68622999,
+  "duration": 46364901,
   "status": "passed"
 });
 formatter.after({
-  "duration": 912787700,
+  "duration": 978885900,
   "status": "passed"
 });
 formatter.scenarioOutline({
-  "line": 10,
+  "line": 11,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully",
@@ -1314,48 +1308,48 @@ formatter.scenarioOutline({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 9,
+      "line": 10,
       "name": "@sanity"
     }
   ]
 });
 formatter.step({
-  "line": 12,
+  "line": 13,
   "name": "I select product \"\u003cproduct\u003e\"",
   "keyword": "When "
 });
 formatter.step({
-  "line": 13,
+  "line": 14,
   "name": "I change quantity \"\u003cqty\u003e\"",
   "keyword": "And "
 });
 formatter.step({
-  "line": 14,
+  "line": 15,
   "name": "I select size \"\u003csize\u003e\"",
   "keyword": "And "
 });
 formatter.step({
-  "line": 15,
+  "line": 16,
   "name": "I select colour \"\u003ccolour\u003e\"",
   "keyword": "And "
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "I click on Add Cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I should see the message \"Product successfully added to your shopping cart\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I click close button",
   "keyword": "And "
 });
 formatter.examples({
-  "line": 20,
+  "line": 21,
   "name": "",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;",
@@ -1367,7 +1361,7 @@ formatter.examples({
         "size",
         "colour"
       ],
-      "line": 21,
+      "line": 22,
       "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;1"
     },
     {
@@ -1377,7 +1371,7 @@ formatter.examples({
         "M",
         "White"
       ],
-      "line": 22,
+      "line": 23,
       "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;2"
     },
     {
@@ -1387,7 +1381,7 @@ formatter.examples({
         "L",
         "Orange"
       ],
-      "line": 23,
+      "line": 24,
       "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;3"
     },
     {
@@ -1397,7 +1391,7 @@ formatter.examples({
         "S",
         "Green"
       ],
-      "line": 24,
+      "line": 25,
       "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;4"
     },
     {
@@ -1407,30 +1401,30 @@ formatter.examples({
         "M",
         "Blue"
       ],
-      "line": 25,
+      "line": 26,
       "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;5"
     }
   ],
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4657230000,
+  "duration": 10939338800,
   "status": "passed"
 });
 formatter.background({
-  "line": 3,
+  "line": 4,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 4,
+  "line": 5,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I click on Women link",
   "keyword": "When "
 });
@@ -1438,18 +1432,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 93300,
+  "duration": 114400,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenLink()"
 });
 formatter.result({
-  "duration": 1709238800,
+  "duration": 10481019601,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 22,
+  "line": 23,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;2",
@@ -1457,13 +1451,13 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 9,
+      "line": 10,
       "name": "@sanity"
     }
   ]
 });
 formatter.step({
-  "line": 12,
+  "line": 13,
   "name": "I select product \"Blouse\"",
   "matchedColumns": [
     0
@@ -1471,7 +1465,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 13,
+  "line": 14,
   "name": "I change quantity \"2\"",
   "matchedColumns": [
     1
@@ -1479,7 +1473,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 14,
+  "line": 15,
   "name": "I select size \"M\"",
   "matchedColumns": [
     2
@@ -1487,7 +1481,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 15,
+  "line": 16,
   "name": "I select colour \"White\"",
   "matchedColumns": [
     3
@@ -1495,17 +1489,17 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "I click on Add Cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I should see the message \"Product successfully added to your shopping cart\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I click close button",
   "keyword": "And "
 });
@@ -1519,7 +1513,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectProduct(String)"
 });
 formatter.result({
-  "duration": 21340682501,
+  "duration": 28763727300,
   "status": "passed"
 });
 formatter.match({
@@ -1532,7 +1526,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 244814800,
+  "duration": 175617200,
   "status": "passed"
 });
 formatter.match({
@@ -1545,7 +1539,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSize(String)"
 });
 formatter.result({
-  "duration": 158738900,
+  "duration": 110297000,
   "status": "passed"
 });
 formatter.match({
@@ -1558,14 +1552,14 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectColour(String)"
 });
 formatter.result({
-  "duration": 142390400,
+  "duration": 109101500,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddCart()"
 });
 formatter.result({
-  "duration": 104756500,
+  "duration": 79239300,
   "status": "passed"
 });
 formatter.match({
@@ -1578,38 +1572,38 @@ formatter.match({
   "location": "WomenCategorySteps.iShouldSeeTheMessage(String)"
 });
 formatter.result({
-  "duration": 62865500,
+  "duration": 73414100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickCloseButton()"
 });
 formatter.result({
-  "duration": 734666200,
+  "duration": 899498200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1154871201,
+  "duration": 1097800800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 5142224100,
+  "duration": 5917679800,
   "status": "passed"
 });
 formatter.background({
-  "line": 3,
+  "line": 4,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 4,
+  "line": 5,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I click on Women link",
   "keyword": "When "
 });
@@ -1617,18 +1611,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 84500,
+  "duration": 74700,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenLink()"
 });
 formatter.result({
-  "duration": 1767667401,
+  "duration": 3155625400,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 23,
+  "line": 24,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;3",
@@ -1636,13 +1630,13 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 9,
+      "line": 10,
       "name": "@sanity"
     }
   ]
 });
 formatter.step({
-  "line": 12,
+  "line": 13,
   "name": "I select product \"Printed Dress\"",
   "matchedColumns": [
     0
@@ -1650,7 +1644,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 13,
+  "line": 14,
   "name": "I change quantity \"3\"",
   "matchedColumns": [
     1
@@ -1658,7 +1652,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 14,
+  "line": 15,
   "name": "I select size \"L\"",
   "matchedColumns": [
     2
@@ -1666,7 +1660,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 15,
+  "line": 16,
   "name": "I select colour \"Orange\"",
   "matchedColumns": [
     3
@@ -1674,17 +1668,17 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "I click on Add Cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I should see the message \"Product successfully added to your shopping cart\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I click close button",
   "keyword": "And "
 });
@@ -1698,7 +1692,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectProduct(String)"
 });
 formatter.result({
-  "duration": 22779224799,
+  "duration": 22636307800,
   "status": "passed"
 });
 formatter.match({
@@ -1711,7 +1705,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 199498100,
+  "duration": 163252600,
   "status": "passed"
 });
 formatter.match({
@@ -1724,7 +1718,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSize(String)"
 });
 formatter.result({
-  "duration": 156518100,
+  "duration": 107257199,
   "status": "passed"
 });
 formatter.match({
@@ -1737,14 +1731,14 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectColour(String)"
 });
 formatter.result({
-  "duration": 108364700,
+  "duration": 91231100,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddCart()"
 });
 formatter.result({
-  "duration": 105839500,
+  "duration": 192605400,
   "status": "passed"
 });
 formatter.match({
@@ -1757,38 +1751,38 @@ formatter.match({
   "location": "WomenCategorySteps.iShouldSeeTheMessage(String)"
 });
 formatter.result({
-  "duration": 68709700,
+  "duration": 59324500,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickCloseButton()"
 });
 formatter.result({
-  "duration": 1721665100,
+  "duration": 5239036800,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1135021501,
+  "duration": 838989999,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4457874300,
+  "duration": 9748401999,
   "status": "passed"
 });
 formatter.background({
-  "line": 3,
+  "line": 4,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 4,
+  "line": 5,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I click on Women link",
   "keyword": "When "
 });
@@ -1796,18 +1790,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 91500,
+  "duration": 281000,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenLink()"
 });
 formatter.result({
-  "duration": 2025336700,
+  "duration": 6983497799,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 24,
+  "line": 25,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;4",
@@ -1815,13 +1809,13 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 9,
+      "line": 10,
       "name": "@sanity"
     }
   ]
 });
 formatter.step({
-  "line": 12,
+  "line": 13,
   "name": "I select product \"Printed Chiffon Dress\"",
   "matchedColumns": [
     0
@@ -1829,7 +1823,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 13,
+  "line": 14,
   "name": "I change quantity \"4\"",
   "matchedColumns": [
     1
@@ -1837,7 +1831,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 14,
+  "line": 15,
   "name": "I select size \"S\"",
   "matchedColumns": [
     2
@@ -1845,7 +1839,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 15,
+  "line": 16,
   "name": "I select colour \"Green\"",
   "matchedColumns": [
     3
@@ -1853,17 +1847,17 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "I click on Add Cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I should see the message \"Product successfully added to your shopping cart\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I click close button",
   "keyword": "And "
 });
@@ -1877,7 +1871,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectProduct(String)"
 });
 formatter.result({
-  "duration": 21186219899,
+  "duration": 24612616500,
   "status": "passed"
 });
 formatter.match({
@@ -1890,7 +1884,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 191036000,
+  "duration": 170554399,
   "status": "passed"
 });
 formatter.match({
@@ -1903,7 +1897,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSize(String)"
 });
 formatter.result({
-  "duration": 81973300,
+  "duration": 69332700,
   "status": "passed"
 });
 formatter.match({
@@ -1916,14 +1910,14 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectColour(String)"
 });
 formatter.result({
-  "duration": 131773300,
+  "duration": 175166999,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddCart()"
 });
 formatter.result({
-  "duration": 94390001,
+  "duration": 84560399,
   "status": "passed"
 });
 formatter.match({
@@ -1936,38 +1930,38 @@ formatter.match({
   "location": "WomenCategorySteps.iShouldSeeTheMessage(String)"
 });
 formatter.result({
-  "duration": 70179701,
+  "duration": 71256800,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickCloseButton()"
 });
 formatter.result({
-  "duration": 1109808499,
+  "duration": 7714511100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1014192500,
+  "duration": 878235500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7231950500,
+  "duration": 12098402501,
   "status": "passed"
 });
 formatter.background({
-  "line": 3,
+  "line": 4,
   "name": "",
   "description": "",
   "type": "background",
   "keyword": "Background"
 });
 formatter.step({
-  "line": 4,
+  "line": 5,
   "name": "I am at homepage",
   "keyword": "Given "
 });
 formatter.step({
-  "line": 5,
+  "line": 6,
   "name": "I click on Women link",
   "keyword": "When "
 });
@@ -1975,18 +1969,18 @@ formatter.match({
   "location": "SignInSteps.iAmAtHomepage()"
 });
 formatter.result({
-  "duration": 67401,
+  "duration": 61700,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnWomenLink()"
 });
 formatter.result({
-  "duration": 4058482699,
+  "duration": 11157466900,
   "status": "passed"
 });
 formatter.scenario({
-  "line": 25,
+  "line": 26,
   "name": "Verify user should add product to the cart successfully",
   "description": "",
   "id": "women-category;verify-user-should-add-product-to-the-cart-successfully;;5",
@@ -1994,13 +1988,13 @@ formatter.scenario({
   "keyword": "Scenario Outline",
   "tags": [
     {
-      "line": 9,
+      "line": 10,
       "name": "@sanity"
     }
   ]
 });
 formatter.step({
-  "line": 12,
+  "line": 13,
   "name": "I select product \"Printed Summer Dress with Price $28.98\"",
   "matchedColumns": [
     0
@@ -2008,7 +2002,7 @@ formatter.step({
   "keyword": "When "
 });
 formatter.step({
-  "line": 13,
+  "line": 14,
   "name": "I change quantity \"2\"",
   "matchedColumns": [
     1
@@ -2016,7 +2010,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 14,
+  "line": 15,
   "name": "I select size \"M\"",
   "matchedColumns": [
     2
@@ -2024,7 +2018,7 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 15,
+  "line": 16,
   "name": "I select colour \"Blue\"",
   "matchedColumns": [
     3
@@ -2032,17 +2026,17 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "line": 16,
+  "line": 17,
   "name": "I click on Add Cart",
   "keyword": "And "
 });
 formatter.step({
-  "line": 17,
+  "line": 18,
   "name": "I should see the message \"Product successfully added to your shopping cart\"",
   "keyword": "Then "
 });
 formatter.step({
-  "line": 18,
+  "line": 19,
   "name": "I click close button",
   "keyword": "And "
 });
@@ -2056,7 +2050,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectProduct(String)"
 });
 formatter.result({
-  "duration": 24599270900,
+  "duration": 29092533600,
   "status": "passed"
 });
 formatter.match({
@@ -2069,7 +2063,7 @@ formatter.match({
   "location": "WomenCategorySteps.iChangeQuantity(String)"
 });
 formatter.result({
-  "duration": 200707600,
+  "duration": 152293301,
   "status": "passed"
 });
 formatter.match({
@@ -2082,7 +2076,7 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectSize(String)"
 });
 formatter.result({
-  "duration": 162051400,
+  "duration": 110204099,
   "status": "passed"
 });
 formatter.match({
@@ -2095,14 +2089,14 @@ formatter.match({
   "location": "WomenCategorySteps.iSelectColour(String)"
 });
 formatter.result({
-  "duration": 120513101,
+  "duration": 118603900,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickOnAddCart()"
 });
 formatter.result({
-  "duration": 107499099,
+  "duration": 86734100,
   "status": "passed"
 });
 formatter.match({
@@ -2115,18 +2109,18 @@ formatter.match({
   "location": "WomenCategorySteps.iShouldSeeTheMessage(String)"
 });
 formatter.result({
-  "duration": 69202900,
+  "duration": 58233900,
   "status": "passed"
 });
 formatter.match({
   "location": "WomenCategorySteps.iClickCloseButton()"
 });
 formatter.result({
-  "duration": 3514127400,
+  "duration": 8287477499,
   "status": "passed"
 });
 formatter.after({
-  "duration": 984565900,
+  "duration": 1010181000,
   "status": "passed"
 });
 });
